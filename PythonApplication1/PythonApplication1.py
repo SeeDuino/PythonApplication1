@@ -1,2 +1,2 @@
 #empty 
-print("SeeDuino said Hi!")
+print("SeeDuino dont said Hi!")
