@@ -1,3 +1,2 @@
 #empty 
-print("baseus")
-print("fds")
+print("SeeDuino said Hi!")
